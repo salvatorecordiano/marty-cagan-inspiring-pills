@@ -16,4 +16,4 @@
 
 - [The Summary of the Book Inspired](https://docs.google.com/presentation/d/1KSUaf1ewH25o0bx4hgXN0ppNOpluwbgZcu59ABWpGqI/)
 - [Empowered](https://drive.google.com/file/d/1h4LSCC_7AaBdfYHUNvkT1sXQLLW5C-jP/view)
-- [Transformed: Moving to the Product Operating Model](slide/transformed_moving_to_the_product_operating_model)
+- [Transformed: Moving to the Product Operating Model](https://www.slideshare.net/parallelit/transformed-moving-to-the-product-operating-model)
