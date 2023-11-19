@@ -2,6 +2,7 @@
 
 ## Video
 
+- [10 Major Misconceptions About Product at Startups](https://www.youtube.com/watch?v=T3VRz18ntjQ)
 - [The Nature of Product](https://www.youtube.com/watch?v=T3VRz18ntjQ)
 - [Leading Complexity](https://www.youtube.com/watch?v=mcnxxdzC2fY)
 - [Transformed: Moving to the Product Operating Model](https://www.youtube.com/watch?v=Zvr-F44Fzkw)
